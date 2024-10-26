@@ -30,9 +30,12 @@ const translations = {
         "video-desc": "Video showing the vacuum's failure.",
         "photo1-desc": "Dirt and dust remaining on the floor after cleaning (Photo 1).",
         "photo2-desc": "Dirt and dust remaining on the floor after cleaning (Photo 2).",
-        "video-desc2": "Failed cleaning attempt. (Video 2).",
-        "video-desc3": "Another failed cleaning attempt. (Video 3).",
-        "video-desc4": "Yet another failed cleaning attempt... (Video 4)."
+        "video-desc2": "Failed cleaning attempt (Video 1).",
+        "video-desc3": "Another failed cleaning attempt (Video 2).",
+        "video-desc4": "Yet another failed cleaning attempt (Video 3).",
+        "photo3-desc": "Photo of 'foreign object' taken by Rejji Teknoloji (Photo 3).",
+        "photo4-desc": "Photo of 'foreign object' taken by Rejji Teknoloji (Photo 4).",
+        "photo5-desc": "Photo of 'foreign object' taken by Rejji Teknoloji (Photo 5)."
     },
     tr: {
         title: "Roborock S8 MaxV Ultra: Bir Kullanıcının Gerçek Hikayesi",
@@ -41,32 +44,35 @@ const translations = {
         "media-link": "Fotoğraflar ve Videolar",
         "update-link": "Son Güncelleme",
         "story-title": "Hayal Kırıklığı ve Sabır Testi",
-        "story-para1": "Roborock S8 MaxV Ultra’yı büyük bir heyecanla ve piyasadaki en iyi robot süpürge olduğu iddiasıyla satın aldım...",
-        "story-para2": "İlk başta bunun kullanıcı hatası olabileceğini düşündüm. Farklı modlar ve ayarlarla tekrar tekrar denedim...",
-        "story-para3": "Teknik servis cihazın 'sorunsuz' çalıştığını belirtti ve cihazı bana geri gönderdi...",
-        "story-para4": "Roborock International ile de iletişime geçtim ve uluslararası destekten de yardım almaya çalıştım...",
+        "story-para1": "Roborock S8 MaxV Ultra’yı büyük bir heyecanla ve piyasadaki en iyi robot süpürge olduğu iddiasıyla satın aldım. Evimde daha az temizlik yapma umuduyla yüksek bir fiyat ödeyerek aldığım bu cihazın beni hayal kırıklığına uğratacağını asla düşünmezdim...",
+        "story-para2": "İlk başta bunun kullanıcı hatası olabileceğini düşündüm. Farklı modlar ve ayarlarla tekrar tekrar denedim. Ancak sonuç hep aynıydı: Roborock S8 MaxV Ultra, kirli bir alan bırakıyor ve tam anlamıyla temizlemiyordu...",
+        "story-para3": "Teknik servis cihazın 'sorunsuz' çalıştığını belirtti ve cihazı bana geri gönderdi. Tekrar denedim ve aynı sorunlar devam etti...",
+        "story-para4": "Roborock International ile de iletişime geçtim ve uluslararası destekten de yardım almaya çalıştım. Sorunun çözümü için uluslararası destek ekibiyle uzun yazışmalar yaptım, ve bana ürünün büyük ihtimal ARIZALI olduğunu söylemelerine rağmen değişim veya iade ile ilgili herhangi bir sonuç alamadım...",
         "timeline-title": "Deneyimin Zaman Çizelgesi",
         "timeline1-date": "Ağustos 2024:",
-        "timeline1-desc": "Roborock S8 MaxV Ultra SIFIR OLARAK Roborock RESMİ websitesinden satın alındı...",
+        "timeline1-desc": "Roborock S8 MaxV Ultra SIFIR OLARAK Roborock RESMİ websitesinden satın alındı ve ilk kullanımdan itibaren vakumlama sorunları ortaya çıktı.",
         "timeline2-date": "Ağustos 2024:",
-        "timeline2-desc": "İlk müşteri desteğiyle iletişime geçildi, fotoğraf ve videolar gönderildi...",
+        "timeline2-desc": "İlk müşteri desteğiyle iletişime geçildi, fotoğraf ve videolar gönderildi.",
         "timeline3-date": "Ağustos 2024:",
-        "timeline3-desc": "Cihaz teknik servise gönderildi, 'sorunsuz' çalıştığı belirtilerek geri gönderildi...",
+        "timeline3-desc": "Cihaz teknik servise gönderildi. 'Sorunsuz' çalıştığı belirtilerek geri gönderildi.",
         "timeline4-date": "Eylül 2024:",
-        "timeline4-desc": "Evde yine 2 hafta boyunca stresli bir şekilde denemeler yapıldı...",
+        "timeline4-desc": "Evde yine 2 hafta boyunca stresli bir şekilde denemeler yaptık ve maalesef aynı sorunları yaşamaya devam ettik...",
         "timeline5-date": "Eylül 2024:",
-        "timeline5-desc": "Cihaz İKİNCİ KEZ teknik servise gönderildi, yine 'sorunsuz' çalıştığı belirtildi...",
+        "timeline5-desc": "Cihaz İKİNCİ KEZ teknik servise tekrar gönderildi. YİNE 'Sorunsuz' çalıştığı belirtilerek geri gönderildi. Müşteri temsilcisi, cihazın yabancı madde nedeniyle çalışmadığını iddia etti ve sahte reklamlar yapıldığını açıkladı.",
         "timeline6-date": "Ekim 2024:",
-        "timeline6-desc": "Tüketici hakları mahkemesine başvuru yapıldı ve süreç devam ediyor...",
+        "timeline6-desc": "Tüketici hakları mahkemesine başvuru yapıldı ve süreç devam ediyor.",
         "update-title": "Son Güncelleme",
-        "update-para": "Roborock International ile tüm yazışmalara rağmen çözüm bulunamadı...",
+        "update-para": "Roborock International ile tüm yazışmalara rağmen çözüm bulamadım. Bu nedenle Tüketici Hakları Mahkemesi'ne başvurdum ve sürecin sonlanmasını bekliyorum. Şu anda Roborock S8 MaxV Ultra kutusunda duruyor ve ben cihazı görmek bile istemiyorum.",
         "media-title": "Fotoğraflar ve Videolar",
         "video-desc": "Robotun düzgün vakumlamadığına dair video.",
         "photo1-desc": "Temizlikten sonra hala yerde kalan toz ve kir (1. Fotoğraf).",
         "photo2-desc": "Temizlikten sonra hala yerde kalan toz ve kir (2. Fotoğraf).",
         "video-desc2": "Başarısız temizlik denemesi (1. Video).",
         "video-desc3": "Başka bir başarısız temizlik denemesi (2. Video).",
-        "video-desc4": "Yine başarısız temizlik denemesi (3. Video)."
+        "video-desc4": "Yine başarısız temizlik denemesi (3. Video).",
+        "photo3-desc": "Rejji Teknoloji'nin çektiği 'yabancı madde' fotoğrafı (1. Fotoğraf).",
+        "photo4-desc": "Rejji Teknoloji'nin çektiği 'yabancı madde' fotoğrafı (2. Fotoğraf).",
+        "photo5-desc": "Rejji Teknoloji'nin çektiği 'yabancı madde' fotoğrafı (3. Fotoğraf)."
     }
 };
 
@@ -77,3 +83,8 @@ function setLanguage(lang) {
         element.textContent = translations[lang][key];
     });
 }
+
+// Initialize page with default language (Turkish)
+document.addEventListener("DOMContentLoaded", () => {
+    setLanguage('tr');
+});
